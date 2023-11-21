@@ -1,3 +1,14 @@
 # ryn-bank
 
-Bank application using Spring Boot and Spring Security
+Bank application that implements Spring Security
+
+<br>
+
+## Languages and Tools
+
+- IntelliJ
+- Java
+- Spring Boot
+- Hibernate
+- Spring Security
+- H2 Database
